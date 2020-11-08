@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Pichau\workspace\java\recalling_jdbc\.metadata\.plugins\org.eclipse.jdt.core
-1735513124.index
